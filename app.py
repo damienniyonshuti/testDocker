@@ -1,5 +1,3 @@
-from calendar import c
-from turtle import color
 import streamlit as st 
 st.set_page_config(layout="wide")
 import pandas as pd
